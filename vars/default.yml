@@ -6,6 +6,7 @@ mysql_db: "my_db"
 mysql_user: "my_db"
 mysql_password: "my_db"
 mysql_host: "wordpress.xxxxxxxxx.us-east-1.rds.amazonaws.com"
+mysql_root_password: "my_db"
 
 
 #HTTP Settings
